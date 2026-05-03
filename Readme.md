@@ -1,8 +1,7 @@
 # Developer Performance Dashboard
 
 ## Overview
-
-A full-stack dashboard that analyzes developer productivity using Excel data.
+Full-stack dashboard to analyze developer performance using React, Node.js, and Excel data.
 
 ## Features
 
@@ -16,8 +15,9 @@ A full-stack dashboard that analyzes developer productivity using Excel data.
 * Frontend: React
 * Backend: Node.js (Express)
 * Data: Excel (XLSX)
+*  charts
 
-## How to Run
+## How to Run ->
 
 ### Backend
 
@@ -33,4 +33,4 @@ npm run dev
 
 * Add database (MongoDB)
 * Real-time updates
-* Advanced charts
+
